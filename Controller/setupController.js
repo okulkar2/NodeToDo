@@ -13,6 +13,7 @@ module.exports = function(app){
 			},
 			{
 				username: "Nerd",
+				todo: "Learn Node.js",
 				isDone: true,
 				hasAttachment: false
 			},
